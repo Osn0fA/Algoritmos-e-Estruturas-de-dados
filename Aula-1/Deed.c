@@ -27,6 +27,5 @@ int main(void){
 
     printf("Você tem medo do escuro? Y/N \n Resposta = ");
 
-    scanf("%c",resposta);
-
+    scanf("%c", &resposta);
 }
